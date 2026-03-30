@@ -35,3 +35,15 @@ Please connect the 4 cables from 5-pin header to ESP32:
 |GPIO17 TXD | 2 - RX |
 |VIN        | 3 - +5VCC |
 |GND        | 4 - GND |
+
+RS485 RJ-45 connector
+|Pin|Description|
+|--|--|
+|1|B|
+|2|A|
+|3||
+|4||
+|5||
+|6||
+|7|A|
+|8|B|
