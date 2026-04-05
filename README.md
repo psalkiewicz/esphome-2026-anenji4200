@@ -16,8 +16,8 @@ The board does wifi communications and also rises the signals to RS485/RS232 lev
 4-pin header - RS485
 |Pin|Description|
 |--|--|
-|1|RS485 A (3.3V TTL level)|
-|2|RS485 B (3.3V TTL level)|
+|1|RS485 (3.3V TTL level)|
+|2|RS485 (3.3V TTL level)|
 |3|+5V VCC|
 |4|GND|
 
@@ -39,11 +39,11 @@ Please connect the 4 cables from 5-pin header to ESP32:
 RS485 RJ-45 connector
 |Pin|Description|
 |--|--|
-|1|B|
-|2|A|
+|1|B (+)|
+|2|A (-)|
 |3||
 |4||
 |5||
 |6||
-|7|A|
-|8|B|
+|7|A (-)|
+|8|B (+)|
